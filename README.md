@@ -1,5 +1,9 @@
 # 💫 About Me:
-About Me<br><br>Hi there! 👋 I'm a passionate Web Developer and a Software Engineering student at Mehran University of Engineering and Technology (MUET). I love crafting responsive and dynamic web applications that provide real-world solutions.<br><br>My Skills<br><br>Web Development: Proficient in modern web technologies like HTML, CSS, JavaScript, React.js, and Next.js.<br><br>Data Structures & Algorithms (DSA): Strong foundation in problem-solving and efficient coding practices.<br><br>Databases: Experience with relational databases and tools like Drizzle for ORM management.
+<div>
+  <h2>About Me</h2>
+  <p>Hello! 👋 I am a passionate and driven Web Developer currently pursuing a Software Engineering degree at Mehran University of Engineering and Technology (MUET). With a strong focus on the <strong>MERN</strong> stack, I specialize in developing dynamic, responsive, and high-performance web applications that solve real-world problems. My enthusiasm for technology extends to <strong>Artificial Intelligence</strong>, where I continue to explore new possibilities and innovations.</p>
+</div>
+
 
 
 ## 🌐 Socials:

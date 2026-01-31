@@ -50,28 +50,6 @@ Alongside development, I actively strengthen my **problem-solving skills** throu
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzamil-074&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muzamil-074&theme=merko&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamil-074&theme=merko&hide_border=false&layout=compact)
-
----
-
-### ✍️ Developer Mindset
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-### 🔝 Top Contributions
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Muzamil-074&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Muzamil-074&icon=4&color=1)
